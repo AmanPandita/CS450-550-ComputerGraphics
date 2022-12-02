@@ -1,0 +1,8 @@
+
+ERROR: 0:31: Use of undeclared identifier 'uA'
+ERROR: 0:33: Use of undeclared identifier 'uA'
+ERROR: 0:36: Use of undeclared identifier 'uA'
+ERROR: 0:38: Use of undeclared identifier 'uA'
+ERROR: 0:41: Use of undeclared identifier 'uA'
+ERROR: 0:43: Use of undeclared identifier 'uA'
+
