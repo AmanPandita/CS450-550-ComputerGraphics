@@ -15,7 +15,7 @@ git clone https://github.com/AmanPandita/CS450-550-ComputerGraphics.git
 
 ## Assignments
 
-The individual assignments are located in the respected `assignment[#number]` folder.
+The individual assignments are located in the respected `CS550-Project#` folder.
 
 ## Resources
 
